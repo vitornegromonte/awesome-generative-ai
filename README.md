@@ -960,7 +960,8 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [THUDM/CogVideo](https://github.com/THUDM/CogVideo): text-to-video generation
 * [baowenbo/DAIN](https://github.com/baowenbo/DAIN): Depth-Aware Video Frame Interpolation (CVPR 2019)
 * [Dain-App 1.0 [Nvidia Only] by GRisk](https://grisk.itch.io/dain-app): Depth-Aware Video Frame Interpolation (CVPR 2019)
-
+* [Open AI Sora preview](https://openai.com/sora): texo-to-video generation model from OpenAI
+* 
 # Audio and Music
 
 * [StemGen: A music generation model that listens](https://julian-parker.github.io/stemgen/) 
